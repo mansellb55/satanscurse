@@ -1,0 +1,2 @@
+# satanscurse
+minecraft/spigot plugin
